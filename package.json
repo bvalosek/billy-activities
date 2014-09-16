@@ -1,6 +1,6 @@
 {
   "name": "billy-activities",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Use activities for state management in Billy applications",
   "keywords": [
     "billy",
