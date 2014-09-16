@@ -27,6 +27,7 @@
     "url": "git@github.com:bvalosek/billy-activities.git"
   },
   "devDependencies": {
+    "billy": "^1.5.1",
     "tape": "^2.14.0"
   },
   "dependencies": {
