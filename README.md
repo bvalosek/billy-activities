@@ -3,7 +3,8 @@
 [![Build Status](https://travis-ci.org/bvalosek/billy-activities.png?branch=master)](https://travis-ci.org/bvalosek/billy-activities)
 [![NPM version](https://badge.fury.io/js/billy-activities.png)](http://badge.fury.io/js/billy-activities)
 
-A service that allows for the use of activities for state management in
+A service that allows for the use of
+[activities](https://github.com/bvalosek/activities) for state management in
 [Billy](https://github.com/bvalosek/billy) Applications
 
 ## Install
