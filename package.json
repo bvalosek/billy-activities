@@ -1,0 +1,37 @@
+{
+  "name": "billy-activities",
+  "version": "0.0.0",
+  "description": "Use activities for state management in Billy applications",
+  "keywords": [
+    "billy",
+    "activities",
+    "state",
+    "activity",
+    "billy-service"
+  ],
+  "author": {
+    "name": "Brandon Valosek",
+    "email": "bvalosek@gmail.com",
+    "url": "http://bvalosek.com"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "billy": "1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bvalosek/billy-activities.git"
+  },
+  "devDependencies": {
+    "tape": "^2.14.0"
+  },
+  "dependencies": {
+    "activities": "^1.1.3",
+    "debug": "^2.0.0",
+    "typedef": "^1.1.0"
+  }
+}
